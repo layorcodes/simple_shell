@@ -2,8 +2,8 @@
 
 /**
  * _strdup - duplicates a str in the heap memory.
- * @s: Type char pointer str
- * Return: duplicated str
+ * @s: Type char pointer str.
+ * Return: duplicated str.
  */
 char *_strdup(const char *s)
 {
@@ -34,7 +34,7 @@ int _strlen(const char *s)
 }
 
 /**
- * cmp_chars - compare chars of strings
+ * cmp_chars - compare chars of strings.
  * @str: input string.
  * @delim: delimiter.
  *
